@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 9007213975aa9b0e1cad4f0872d13085a002efd4 joabeleonardo <joabeloliveira@icloum.com> 1790641452 -0300	commit (initial): Forcando o primeiro commit
+9007213975aa9b0e1cad4f0872d13085a002efd4 0000000000000000000000000000000000000000 joabeleonardo <joabeloliveira@icloum.com> 1790641466 -0300	Branch: renamed refs/heads/main to refs/heads/main
+9007213975aa9b0e1cad4f0872d13085a002efd4 9007213975aa9b0e1cad4f0872d13085a002efd4 joabeleonardo <joabeloliveira@icloum.com> 1790641466 -0300	Branch: renamed refs/heads/main to refs/heads/main
+9007213975aa9b0e1cad4f0872d13085a002efd4 e73db9b94b9f05e4cfc9c27c2e327585584cdef5 joabeleonardo <joabeloliveira@icloum.com> 1790641607 -0300	commit: primeiro commit do projeto rotas e controllers praticamente prontos
+e73db9b94b9f05e4cfc9c27c2e327585584cdef5 4d83ff8f73affc1cec2170d2602a533eb77ed697 joabeleonardo <joabeloliveira@icloum.com> 1791325373 -0300	commit: Inclusão de rotas de segurança
+4d83ff8f73affc1cec2170d2602a533eb77ed697 c4cac00710ca739278e596ec73cfd118a783cb93 joabeleonardo <joabeloliveira@icloum.com> 1792458958 -0300	commit: Finalizado avaliação com autenticações.
